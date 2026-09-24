@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+src/sma_bn/__init__.py
+src/sma_bn.egg-info/PKG-INFO
+src/sma_bn.egg-info/SOURCES.txt
+src/sma_bn.egg-info/dependency_links.txt
+src/sma_bn.egg-info/top_level.txt
+tests/test_setup.py
